@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:58:27.578247
-#+TITLE: 洞真太上八道命籍經
-#+PROPERTY: DZID  DZ1328
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，33—502 二卷 正一部
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
